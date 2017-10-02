@@ -1,12 +1,19 @@
 {
+
     "manifest_version": 2,
     "name": "shitemove",
     "description": "This extension replaces estate agent clichés with something a little more truthful.",
-    "version": "0.1",
+    "version": "0.1.2",
     "author": "Angry Flat Cap",
     "background":
     {
         "scripts": ["getsettings.js", "dictionary.js", "background.js"]
+    },
+
+    "applications": {
+      "gecko": {
+        "strict_min_version": "48.0"
+      }
     },
 
     "icons":
@@ -40,7 +47,7 @@
     "options_ui":
     {
         "page": "options.html",
-        "chrome_style": true
+        "browser_style": true
     },
 
     "content_scripts": [
