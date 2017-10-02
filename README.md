@@ -1,9 +1,13 @@
-# shitemove
+# shitemove (for Firefox)
+
+
 Replacing estate agent clichés with something a little more truthful.
 
 By Liam Butler (<a href="https://www.twitter.com/AngryFlatCap/">@AngryFlatCap)
 
 Inspired by <a href="http://downworthy.snipe.net/">Downworthy</a> by <a href="https://twitter.com/snipeyhead">Snipe</a>. <a href="https://www.iconfinder.com/icons/299061/house_icon">Logo</a> by <a href="http://www.paomedia.com">Paomedia</a>, with some modifications. Licensed under Creative Commons 3.0.
+
+(This is a quick fix for Firefox compatibility. Eventually I'd like to get this and <a href="https://github.com/liambutler/shitemove">shitemove for Chrome</a> in the same repo, using the WebExtension API)
 
 ## What is it?
 
@@ -23,7 +27,8 @@ I've put together an explanatory page over at <a href="shitemove.angryflatcap.co
 ## To do
 
 <ul>
-  <li>A Firefox version (if there's enough demand for one)</li>
+  <li>Combine this repo with the <a href="https://github.com/liambutler/shitemove">shitemove for Chrome</a></li> repo
+  <li>Improve the look of the save button on the options screen. I don't like how it's stretching to the width of the div.</li>
   <li>Accessibility improvements.</li>
   <li>Performance enhancements. I don't think that I'm using the MutationObserver API to its full potential at the moment.</li>
 </ul>
