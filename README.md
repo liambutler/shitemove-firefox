@@ -11,7 +11,7 @@ Inspired by <a href="http://downworthy.snipe.net/">Downworthy</a> by <a href="ht
 
 ## What is it?
 
-shitemove is a Chrome plugin. When on a property listing it will take words such as 'stunning' and 'stylish' and replace them with words like 'passable' and 'tacky'.
+shitemove is a Chrome plugin, hastily ported to Firefox. When on a property listing it will take words such as 'stunning' and 'stylish' and replace them with words like 'passable' and 'tacky'.
 
 Here are some examples that came up during testing:
 
