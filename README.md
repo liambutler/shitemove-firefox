@@ -27,7 +27,7 @@ I've put together an explanatory page over at <a href="shitemove.angryflatcap.co
 ## To do
 
 <ul>
-  <li>Combine this repo with the <a href="https://github.com/liambutler/shitemove">shitemove for Chrome</a></li> repo
+  <li>Combine this repo with the <a href="https://github.com/liambutler/shitemove">shitemove for Chrome</a> repo</li>
   <li>Improve the look of the save button on the options screen. I don't like how it's stretching to the width of the div.</li>
   <li>Accessibility improvements.</li>
   <li>Performance enhancements. I don't think that I'm using the MutationObserver API to its full potential at the moment.</li>
